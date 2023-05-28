@@ -1,0 +1,26 @@
+file->newproject->javaweb->webapplication->next->projectname(Assignment7)->next-
+
+click on ass7->new->websertvice(MyCalcualtorWebservice),pckage=com.myservice->finish
+
+Mycalculatoe =serfvice->addopdration
+
+clicl on assignment7->build->deploy
+
+clicl on mycalculatorwebservice->test
+
+file->newproject->javaweb->webapplication->next->projectname(CalcualtorWebServiceCliebt)->next-
+
+open index.html->create form->
+
+click on CaclwebServiceClient->new->webserviceclient->browse(mycalcwebservice)->defaultpackage->finish
+
+right clickon calculatorwebserviceclient->new->servlet->(CalculatorServelt)->check the option->finish
+
+ drag all methods(add,sub etc) in calculatorservlet.java
+ 
+ 
+ clean and buld calculatorwebserviceclient
+ 
+ on idex.html->runfile
+
+
